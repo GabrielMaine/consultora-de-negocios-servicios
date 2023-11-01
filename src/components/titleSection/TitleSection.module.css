@@ -1,0 +1,20 @@
+.titleSection {
+  font-family: var(--title-font);
+  font-size: calc(3rem + 3vw);
+  font-weight: 400;
+  text-align: center;
+  line-height: 80%;
+  color: #000;
+}
+
+/* @media screen and (max-width: 820px) {
+  .titleSection {
+    text-align: initial;
+  }
+}
+
+@media screen and (max-width: 574px) {
+  .titleSection {
+    font-size: calc(2rem + 3vw);
+  }
+} */
